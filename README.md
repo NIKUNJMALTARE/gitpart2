@@ -10,4 +10,4 @@ Commanding the Craft: We mastered the power of basic commands like git init, git
 Branching Out and Merging In: The world of branches unfolded, empowering us to work on features independently and seamlessly merge them back into the main project.
 Collaboration Made Simple: We explored how Git fosters teamwork, learning how to push, pull, and fetch changes to work together like a well-oiled machine.
 Remote Repositories: Your Code's Fortress: Setting up and managing remote repositories on platforms like GitHub became a breeze, allowing us to share and collaborate with the world.
-This session was a turning point, significantly boosting my understanding and confidence in using Git. While these highlights whet your appetite, for the nitty-gritty details, be sure to check out the "Git notes.txt" file within this repository. It's a treasure map leading you to the gold mine of knowledge gleaned from this fantastic training!
+This session was a turning point, significantly boosting my understanding and confidence in using Git.
